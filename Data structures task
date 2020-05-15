@@ -1,0 +1,15 @@
+ CODING FOR 1ST OUTPUT:
+ 
+ list1=[12,-7,5,64,-14]
+ print("input:list1 =",list1)
+ print("output:",list1[0],list1[2],list1[3])
+ 
+ CODING FOR 2ND OUTPUT:
+ 
+ list2=[12,14,-95,3]
+ print("input:list2 =",list2)
+ positive=[12,14,3]
+ print("output:",positive)
+ 
+ 
+ 
